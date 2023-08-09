@@ -1,6 +1,8 @@
 # flutter_ui_practice
 
-A new Flutter project.
+실행 이미지
+
+<img width="{해상도 비율}" src="https://github.com/devperl94/flutter_ui_practice/assets/140070533/51e3e891-930a-490b-b217-4d5960ed16ba"/>
 
 ## Getting Started
 
